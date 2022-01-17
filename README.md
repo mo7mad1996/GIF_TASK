@@ -1,26 +1,49 @@
-# GIF_tesk
+# GIF_task
 
 ## Personal Information
 
-name: Mohamed Ibrahim `web developer`
-age: 26
-Bachelor's degree: in computer scince 2019
+### Introduction
 
-## Build Setup
+Completed for the university stage with a major (very good), diligent and motivated to learn everything new, I look forward to developing myself and the place I am in, eager to achieve all my ambitions and goals, I have patience and perseverance that enables me to see my future in front of me now, I raise the slogan of life. :heart:
 
-```bash
-# install dependencies
-$ npm install
+### Personal information
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+- **Name**: Moahemed Ibrahim.
+- **age**: 26.
+- **Education**: computer scince `2019` `very good`.
+- **Military service**: exempt.
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+### Technical skills
 
-# generate static project
-$ npm run generate
+`Nuxt.js` – `Vuetify` – `Vuex` - `Vue.js` – `javascript` - `jQuery` – `git` -
+`Ajax` – `axios` – `json` – `Bootstrap` – `css` - `sass` – `pugjs` – `HTML` - `svg` - `canvas` -
+`php` – `mysql` – basics `React.js`
+`node.js` – `mongodb` – `socket.io`
+
+#### Work Experience
+
+##### **Front-end** in [MvpUx], Giza.
+
+.. `August 2019 - July 2020`
+
+one of programming team, work as front-end web developer.
+convert UX UI design to web code.
+
+---
+
+##### **Full stack Web Developer** in [Omal Misr], Giza.
+
+.. `November 2020 - October 2021`
+
+I make website and start in ERP System for company,
+manage database. make Emails. IT supporter.
+
+#### How to contact with me.
+
+1. [Gmail](mailto:mo7mad369@gmail.com)
+2. [outlook](mailto:mo7mad96@outlook.com)
+3. [(+2) 01090524505](tel:+201090524505)
+
 ```
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+```
