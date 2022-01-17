@@ -1,6 +1,6 @@
 <template>
   <div
-    class="loading"
+    :class="{ loading: height }"
     :style="`background:#${background}; height: ${height}`"
     ref="loading"
   >
